@@ -1,5 +1,5 @@
 //Personal project's Firebase credentials
-import firebaseConfig from 'firebase.js';
+import firebaseConfig from './firebase';
 
 
 import firebase from 'firebase/app';
